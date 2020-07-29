@@ -11,3 +11,10 @@ Github Completed Tasks:
 	9.	Clone a repository
 	10.	Create a branch
 	11.	Make changes and push the changes
+	12.	Using mentor, create merge conflicts
+	13.	Pull the latest
+	14.	Resolve merge conflicts
+	15.	Push the changes
+	16.	Create a Pull Request
+	17.	Using mentor, participate in a code review
+	18.	Merge the pull request
