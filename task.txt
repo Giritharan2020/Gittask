@@ -1,5 +1,8 @@
-Github Tasks:
+Github Completed Tasks:
 	
 	1.	Download and install Git
 	2.	Create a directory and initialize a repository
-	3.	Make changes and stage the changed filesgi
+	3.	Make changes and stage the changed files
+	4.	Learn “git status” and options
+	5.	Learn “git add” and options
+	6.	Learn “git commit”
