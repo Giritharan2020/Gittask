@@ -10,4 +10,5 @@ Github Completed Tasks:
 	8.	Learn “git push”
 	9.	Clone a repository
 	10.	Create a branch
-	11.	Make changes and push the difference
+	11.	Make changes and push the changes
+
