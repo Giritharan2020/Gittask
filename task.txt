@@ -10,7 +10,7 @@ Github Completed Tasks:
 	8.	Learn “git push”
 	9.	Clone a repository
 	10.	Create a branch
-	11.	Make changes and push the changest
+	11.	Make changes and push the changes
 	12.	Using mentor, create merge conflicts
 	13.	Pull the latest
 	14.	Resolve merge conflicts
