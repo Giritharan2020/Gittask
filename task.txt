@@ -2,4 +2,4 @@ Github Tasks:
 	
 	1.	Download and install Git
 	2.	Create a directory and initialize a repository
-	3.	Make changes and stage the changed files
+	3.	Make changes and stage the changed filesgi
