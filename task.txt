@@ -6,9 +6,8 @@ Github Completed Tasks:
 	4.	Learn “git status” and options
 	5.	Learn “git add” and options
 	6.	Learn “git commit”
-	7.	Learn “git push”
-	8.	Publish the repository
+	7.	Publish the repository
+	8.	Learn “git push”
 	9.	Clone a repository
 	10.	Create a branch
 	11.	Make changes and push the changes
-
